@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Akila+Dhambure+Liyanage;OUSL+Undergraduate)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Akila+Liyanage;OUSL+Undergraduate)](https://git.io/typing-svg) 
 
 <div align="center" width="50">
 
