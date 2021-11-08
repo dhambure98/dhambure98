@@ -21,17 +21,15 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
+- 🔭 I’m currently studying at [Open University Sri Lanka](https://www.ou.ac.lk)
 
-<p align="center">
-<a href="">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GathsaraH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GathsaraH&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+- 🌱 I’m currently learning **React, Sass**
 
-</br>
-</br>
+- 💬 Ask me about **Frontend Development**
+
+- 📫 How to reach me **dhambure10@gmail.com**
+
+- ⚡ Fun fact **I am funny, Relax man**
 
 <div align="center" 
 <i>Random dev joke for you!</i><br>
@@ -71,12 +69,7 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 
 <div align="center" 
 <i>Follow me around the web:</i><br>
-
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/akila-dhambure-liyanage-034162173/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/_dambare_98/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-  <a target="_blank" href="https://www.facebook.com/akila.liyange">🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​</a> ●
-  <a target="_blank" href="https://dev.to/">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
-  </div>
+</div>
 
 <a href="https://www.linkedin.com/in/akila-dhambure-liyanage-034162173/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_dambare_98/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -84,18 +77,3 @@ or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
 <a href="https://dev.to/" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
-
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/absphreak/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/absphreak/) ● [🇫​🇦​🇨​🇪​🇧​🇴​🇴​🇰​](https://www.facebook.com/originalphreak/) ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/0170agi99s5hh187g7mtz245b) -->
-
-
-
-<!-- Here are some ideas to get you started:-->
-
-<!-- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...  
