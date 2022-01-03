@@ -1,39 +1,29 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Akila+Dhambure+Liyanage;OUSL+Undergraduate)](https://git.io/typing-svg) 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Akila+Liyanage;OUSL+Undergraduate)](https://git.io/typing-svg) 
+<div align="center">
+<h2> A passionate Full Stack Developer from Sri Lanka <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 <div align="center" width="50">
-
 <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0076.gif" border="0" alt="animated-hello-image-0076" /></a>
-
 </div>
 
-<div align="center">
+- 🔭 I’m currently studying at [Open University Sri Lanka](https://www.ou.ac.lk) 
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/GathsaraH/GathsaraH/issues"><b>here</b></a><br>
-or <a href="mailto:umeshgathsara@gmail.com"><b>email</b></a> me
+- 🌱 I’m currently learning **"java, html, css, python, C, hibernate and javascript"**
 
-<i>Happy Coding!</i> 😊
-
-</div>
-
-- 🔭 I’m currently studying at [Open University Sri Lanka](https://www.ou.ac.lk)
-
-- 🌱 I’m currently learning **React, Sass**
-
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Web and Java SE**
 
 - 📫 How to reach me **dhambure10@gmail.com**
 
+- 🎤 I love sharing knowledge with the community via public speaking
+
 - ⚡ Fun fact **I am funny, Relax man**
 
-<div align="center" 
-<i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<div align="center">
+  
+<i>Happy Coding!</i> 😊
+  
 </div>
 
 <div align="center" 
