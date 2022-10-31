@@ -8,11 +8,11 @@
 <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0076.gif" border="0" alt="animated-hello-image-0076" /></a>
 </div>
 
-- 🔭 I’m currently studying at [Open University Sri Lanka](https://www.ou.ac.lk) 
+- 🔭 I’m currently studying at [Institute of Software Engineering (IJSE)](https://www.ijse.lk) 
 
-- 🌱 I’m currently learning **"java, html, css, python, C, hibernate and javascript"**
+- 🌱 I’m currently learning Computer Science and web developing
 
-- 💬 Ask me about **Web and Java SE**
+- 💬 Ask me about anything : **+94767354857**
 
 - 📫 How to reach me **dhambure10@gmail.com**
 
